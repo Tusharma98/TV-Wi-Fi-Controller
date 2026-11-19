@@ -1,8 +1,5 @@
 # TV Wi-fi Controller
 
-[![Build APKs](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/build.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/build.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 Use your phone as a remote control and keyboard for an Android TV, Fire TV, tablet or any other Android device on the same network. Type with your phone's keyboard, move around with a D-pad, and (optionally) drive the whole screen with a mouse pad, gamepad and app launcher.
 
 No cloud, no account, no internet connection needed. The two devices talk directly over your local network using an authenticated, encrypted link.
