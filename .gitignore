@@ -1,0 +1,22 @@
+# Build output
+build/
+*/build/
+*/app/build/
+.gradle/
+.kotlin/
+*.apk
+*.aab
+
+# Signing material: NEVER commit these
+*.jks
+*.keystore
+keystore.properties
+
+# Local machine / IDE
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
