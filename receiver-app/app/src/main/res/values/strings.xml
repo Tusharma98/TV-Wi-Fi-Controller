@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TV Remote Keyboard</string>
+    <string name="ime_label">TV Remote Keyboard</string>
+    <string name="a11y_label">TV Remote Keyboard (Accessibility)</string>
+    <string name="a11y_desc">Optional. Lets the phone remote move focus, click, use the mouse pad and gamepad, scroll, open apps and press Back / Home / Recents on this device. The keyboard works without it.</string>
+</resources>
