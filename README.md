@@ -44,7 +44,7 @@ When the add-on is off, nothing changes for the keyboard.
 
 ## Install
 
-1. Build both APKs (below) or download them from the **Actions** tab / **Releases** page of this repository.
+1. Download applications from the **Releases** page of this repository.
 2. Install the **Receiver** APK on the TV / target device, the **Remote** APK on your phone. (You may need to allow installs from unknown sources.)
 3. Open the Receiver and follow the green button: **1** enable the keyboard, **2** select it, **3** pair a new phone (shows a PIN), **4** optional Accessibility add-on.
 4. Open the Remote, pick the receiver from the list (or type its IP), and enter the PIN.
